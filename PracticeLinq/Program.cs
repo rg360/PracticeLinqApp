@@ -26,6 +26,8 @@ namespace PracticeLinq
 
             //var game = gamesList.Where(x => x.Contains("84"));
 
+            //order by length
+
             var game = gamesList.OrderBy(x => x.Length);
 
             foreach (var y in game)
