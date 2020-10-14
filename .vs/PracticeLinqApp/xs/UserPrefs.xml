@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{54568EC2-0C6D-4646-BF45-7E43AB35E6B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeLinq/Program.cs">
+    <Files>
+      <File FileName="PracticeLinq/Program.cs" Line="23" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticeLinqApp" expanded="True">
+            <Node name="PracticeLinq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PracticeLinq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

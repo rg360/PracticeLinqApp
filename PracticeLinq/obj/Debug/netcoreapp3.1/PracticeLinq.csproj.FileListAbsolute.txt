@@ -1,0 +1,12 @@
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/bin/Debug/netcoreapp3.1/PracticeLinq.deps.json
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/bin/Debug/netcoreapp3.1/PracticeLinq.runtimeconfig.json
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/bin/Debug/netcoreapp3.1/PracticeLinq.runtimeconfig.dev.json
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/bin/Debug/netcoreapp3.1/PracticeLinq.dll
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/bin/Debug/netcoreapp3.1/PracticeLinq.pdb
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/obj/Debug/netcoreapp3.1/PracticeLinq.csprojAssemblyReference.cache
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/obj/Debug/netcoreapp3.1/PracticeLinq.AssemblyInfoInputs.cache
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/obj/Debug/netcoreapp3.1/PracticeLinq.AssemblyInfo.cs
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/obj/Debug/netcoreapp3.1/PracticeLinq.csproj.CoreCompileInputs.cache
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/obj/Debug/netcoreapp3.1/PracticeLinq.dll
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/obj/Debug/netcoreapp3.1/PracticeLinq.pdb
+/Users/rg/Desktop/Projects/Repository/PracticeLinqApp/PracticeLinq/obj/Debug/netcoreapp3.1/PracticeLinq.genruntimeconfig.cache
